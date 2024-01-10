@@ -9,3 +9,25 @@ cd c:\folder_name
 ```sh
 pwd
 ```
+
+Листинг текущей директории
+Windows:
+```sh
+dir
+```
+
+Листинг текущей директории
+MacOS, Linux:
+```sh
+ls
+```
+
+Удаление файла в Windows:
+```sh
+del <filename>
+```
+
+Удаление файла в MacOS, Linux:
+```sh
+rm <filename>
+```
