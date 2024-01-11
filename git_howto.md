@@ -8,8 +8,11 @@ git init
 ```sh
 git add
 ```
-
+Фиксирование изменений и их описание:
+```sh
 git commit -m "Message"
+```
+
 git log
 git log -oneline
 git checkout
