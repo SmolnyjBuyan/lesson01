@@ -4,6 +4,10 @@
 ```sh
 git init
 ```
+Получить информацию от git о его текущем состоянии:
+```sh
+git status
+```
 Доваление файлу версионности в локальном репозитории:
 ```sh
 git add
@@ -24,4 +28,6 @@ git log
 ```sh
 git log -oneline
 ```
+
+
 git checkout
