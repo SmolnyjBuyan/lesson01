@@ -12,6 +12,11 @@ git add
 ```sh
 git commit -m "Message"
 ```
+Вывод разницы между текущей и зафиксированной версией файла:
+```sh
+git diff
+```
+
 
 git log
 git log -oneline
