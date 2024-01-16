@@ -64,6 +64,11 @@ git checkout <name>
 git merge <name>
 ```
 
+Отмена попытки слияния
+```sh
+git merge --abort
+```
+
 Визуализация всех веток, вывод коммитов в виде дерева:
 ```sh
 git log --graph
