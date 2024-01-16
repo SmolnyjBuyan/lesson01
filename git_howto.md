@@ -106,3 +106,5 @@ git reset --hard <name>
 ```sh
 git commit --amend -m "Some description"
 ```
+
+## Что будет дальше?
